@@ -4,4 +4,4 @@ Just install the HelloWorld.DNNModule module in your DNN website and you will ge
 Run "help" to view it's description
 
 
-# Note: This module will work only on DNN Version 9.2.0 or later. Currently, This is not a released version. You can download the latest build from DNN Nightly builds link http://www.dnnsoftware.com/platform/build/nightly-builds
+* Note: This module will work only on DNN Version 9.2.0 or later. Currently, This is not a released version. You can download the latest build from DNN Nightly builds link http://www.dnnsoftware.com/platform/build/nightly-builds *
